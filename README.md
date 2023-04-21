@@ -1,6 +1,4 @@
 # Torpedo para hacer un diseño de APIS en node y express
+Node y Express
 
-
-
-
-![completo](https://user-images.githubusercontent.com/102434136/233661978-781bcc63-bbb6-4a02-897f-c489ee07e759.jpeg)
+![completo(2)](https://user-images.githubusercontent.com/102434136/233662458-f652e673-1c95-4ebc-942a-25e5afa6ee11.jpeg)
